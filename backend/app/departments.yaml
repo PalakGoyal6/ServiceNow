@@ -1,0 +1,37 @@
+departments:
+  - code: ACAD
+    name: Academic Affairs
+    description: course registration, attendance shortfall, academic appeals, credits
+  - code: EXAM
+    name: Examinations
+    description: exam eligibility lists, admit cards, re-evaluation, results
+  - code: FIN
+    name: Finance & Fees
+    description: fee payment, dues, refunds, fines, payment receipts
+  - code: SCHOL
+    name: Scholarships & Financial Aid
+    description: scholarships, fee waivers, emergency financial support
+  - code: HOSTEL
+    name: Hostel & Accommodation
+    description: room allocation, hostel issues, mess, accommodation
+  - code: COUNS
+    name: Counselling & Wellbeing
+    description: stress, anxiety, emotional wellbeing, personal difficulties
+  - code: HEALTH
+    name: Health Centre
+    description: illness, medical certificates, medical leave
+  - code: DISAB
+    name: Disability Support
+    description: accommodations, accessibility, extra exam time
+  - code: LIB
+    name: Library
+    description: library access, fines, resources
+  - code: IT
+    name: IT Services
+    description: portal login, email, Wi-Fi, LMS access
+  - code: PLACE
+    name: Training & Placement
+    description: internships, placement eligibility, company process issues
+  - code: DSW
+    name: Dean of Student Welfare
+    description: harassment complaints, disputes, anything cross-cutting or unclear
